@@ -14,7 +14,9 @@ public class Main {
         userCredentials.put("Hizmy","1212");
         userCredentials.put("Zaid","1111");
         userCredentials.put("Dilum","1313");
-        userCredentials.put("Saajith","1414");
+        userCredentials.put("Fathima","Aleem");
+        userCredentials.put("Gowshigan","Balachandran");
+        userCredentials.put("Jeeshan","Ahamed");
 
         Scanner scan = new Scanner(System.in);
 

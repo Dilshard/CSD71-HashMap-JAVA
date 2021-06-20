@@ -22,6 +22,6 @@ public class MainMenu {
     }
 
     public void createUser(){
-        System.out.println("Crate user");
+        System.out.println("New user create user");
     }
 }
