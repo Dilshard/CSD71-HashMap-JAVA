@@ -9,8 +9,6 @@ public class Main {
 
         HashMap<String,String> userCredentials = new HashMap<>();
 
-        userCredentials.put("john123","101520");
-        userCredentials.put("peter123","123456");
         userCredentials.put("Hizmy","1212");
         userCredentials.put("Zaid","1111");
         userCredentials.put("Dilum","1313");
