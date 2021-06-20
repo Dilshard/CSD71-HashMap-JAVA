@@ -15,7 +15,7 @@ public class Main {
         userCredentials.put("Fathima","Aleem");
         userCredentials.put("Gowshigan","Balachandran");
         userCredentials.put("Jeeshan","Ahamed");
-
+//getting the user input
         Scanner scan = new Scanner(System.in);
 
         System.out.print("User name: ");
